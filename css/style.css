@@ -11,3 +11,25 @@
 .nav-item > *:hover{
     color:gray;
 }
+
+img{
+    object-fit: cover;
+    max-width: 100%;
+}
+
+.skills-picture{
+    max-height:300px;
+}
+
+.progress{
+    height:2px;
+}
+ 
+/* .resume-nav{
+    position: absolute;
+    bottom: 0;
+} */
+.resume-jumbotron{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
