@@ -18,21 +18,27 @@ img{
     max-height: 100%;
 }
 
-.skills-picture{
-    max-height:300px;
-}
 
 .progress{
     height:2px;
 }
  
-/* .resume-nav{
+ /* .resume-nav{
     position: absolute;
     bottom: 0;
-} */
+    align-self: center;
+}  */
 .resume-jumbotron{
     padding-bottom: 0;
     margin-bottom: 0;
+    height:500px;
+    position:relative;
+}
+
+.nav-container{
+    position: absolute;
+    bottom:0;
+    width:100%;
 }
 
 .education-picture{
